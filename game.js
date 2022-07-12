@@ -1,3 +1,9 @@
+/*
+
+ GAME Ball v1.0
+
+*/
+
 var clr = ["red", "blue", "yellow", "darkgreen"];
 var arr = [];
 var score = 0;
